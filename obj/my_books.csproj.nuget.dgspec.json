@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samru\\source\\repos\\my_books\\my_books.csproj": {}
+    "C:\\Users\\samru\\source\\repos\\My_books\\My_books.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samru\\source\\repos\\my_books\\my_books.csproj": {
+    "C:\\Users\\samru\\source\\repos\\My_books\\My_books.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samru\\source\\repos\\my_books\\my_books.csproj",
-        "projectName": "my_books",
-        "projectPath": "C:\\Users\\samru\\source\\repos\\my_books\\my_books.csproj",
+        "projectUniqueName": "C:\\Users\\samru\\source\\repos\\My_books\\My_books.csproj",
+        "projectName": "My_books",
+        "projectPath": "C:\\Users\\samru\\source\\repos\\My_books\\My_books.csproj",
         "packagesPath": "C:\\Users\\samru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samru\\source\\repos\\my_books\\obj\\",
+        "outputPath": "C:\\Users\\samru\\source\\repos\\My_books\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samru\\AppData\\Roaming\\NuGet\\NuGet.Config",
